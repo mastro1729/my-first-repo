@@ -1,32 +1,28 @@
-# This is a large heading.
+# Manidee Latchupatula
 
-## This is a smaller heading.
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A logical *habitation* and a **name**.
+I live in the city of Bobbili, in the state of Visakhatnam, in the INDIA.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Inner Engineering* by Sadhguru.
+- *Death* by Sadhguru.
+- *Welcome to the Monkey House* by Kurt Vonnegut.
 
-```
+### Food
 
-This is
-a block
-of code
+Last night I dreamt about eating in these restaurants:
 
-```
-Here is how you can make [a link] (https://www.wikipedia.org/).
+1. Linger in Denver.
+2. Azura  in Jerusalem.
+3. Gemma in New York City.
 
-![This is an image.] (https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is [on twitter](https://twitter.com/mastro1729).
 
 
 
